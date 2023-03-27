@@ -1,7 +1,7 @@
-# A Graph Transformer based Forcasting Method for Wind Prediction and Traffic Flow Prediction
+# WindTrans: Transformer-based Wind Speed Forecasting Method for High-Speed Railway
 
-Code consist of two parts, namely wind part and traffic flow part
+Code consist of two parts, namely prediction model and renewal method
 
-## WindGT
+## Prediction model
 
-## TrafficGT
+## Modle renewal method
