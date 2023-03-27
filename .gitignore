@@ -1,0 +1,9 @@
+result/
+pictures/
+sup_pictures/
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.eps
+*.png
+supp.ipynb
